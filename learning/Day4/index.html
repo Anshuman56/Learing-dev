@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="card">
+      <div class="lebel">guess the number</div>
+      <h1>1 to 100</h1>
+      <p class="subtitle">I'm thinking of a number. Can you gess it?</p>
+      <input type="number" id="guessInput" placeholder="Your guess" />
+      <button id="guessBtn">Guess</button>
+      <div class="message" id="message" style="display: node"></div>
+      <div class="stats">
+        <div><strong id="attempts">0</strong>Attempts</div>
+        <div><strong id="remaining">10</strong>Remaining</div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

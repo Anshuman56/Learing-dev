@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family:
+    system-ui,
+    -apple-system,
+    sans-serif;
+  background: #f4f4f5;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.card {
+  background: white;
+  border-radius: 12px;
+  padding: 32px 28px;
+  max-width: 380px;
+  width: 100%;
+  text-align: center;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+.lebel {
+  font-size: 12px;
+  color: #71717a;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+h1 {
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+.subtitle {
+  font-size: 14px;
+  color: #71717a;
+  margin-bottom: 28px;
+}
+input {
+  width: 100%;
+  padding: 14px;
+  font-size: 16px;
+  text-align: center;
+  border: 1px solid #e4e4e7;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+button {
+  width: 100%;
+  padding: 12px;
+  font-size: 15px;
+  font-weight: 500;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+button:hover {
+  background: #1d4ed8;
+}
+.message {
+  margin-top: 20px;
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 14px;
+}
+.too-low {
+  background: #dbeafe;
+  color: #1e40af;
+}
+.too-high {
+  background: #fee2e2;
+  color: #991b1b;
+}
+.correct {
+  background: #dcfce7;
+  color: #166534;
+}
+.stats {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+  font-size: 13px;
+  color: #71717a;
+}
+.stats strong {
+  display: block;
+  font-size: 18px;
+  color: #18181b;
+  font-weight: 500;
+}
