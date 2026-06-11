@@ -111,6 +111,7 @@ Energy (1–10): 5
 
 - I built the project that claude give. That I solve with pomise chan and asyn/awat.
 - I learned the sentax now and how how promise work.
+- What is sync and async? JavaScript is syncronus in nature it don't wait for anyting. When we use asycronus it will do the syncronus tasks first then when it become free return back to asyncrous task and run the code to run done the running process.
 
 ### What confused me
 
@@ -122,8 +123,34 @@ Energy (1–10): 5
 
 ### Tomorrow's first task
 
-- Do the quart project.
+- Do the quote project.
 
 ### Stuck on / need to revisit
 
 - how do we make more poject that will stick every thing into my brain?
+
+## Day 13 — Monday (8 June)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I built the quote generator project. where you genertate a random quote and copy it and also a tweet button that you can direct post that quote to tweeter.
+- I learn so many thing like how to handlea a promise and how to use setTimeout and how to copy a test by clicking a button not selecting and copying.
+
+### What confused me
+
+- Nothing cofused me anymore. I don't some relly good project.
+
+### One thing that clicked
+
+- promise and async/await sentax.
+
+### Tomorrow's first task
+
+- tomorow rest day but I will work.
+
+### Stuck on / need to revisit
+
+- There is no stuck I love this project days.
