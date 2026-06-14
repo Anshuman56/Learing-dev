@@ -80,3 +80,55 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - nothing.
+
+## Day 17 — friday (12 June)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- pass props to the child compoten fomr partent compotent.
+- Props can be pass as a opbject or destruchering way.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- you have to pass the same name and same oder as an argument.
+
+### Tomorrow's first task
+
+- Tomorrow I read about State.
+
+### Stuck on / need to revisit
+
+- nothing.
+
+## Day 18 — suterday (12 June)
+
+Time spent: 3h 10m
+Energy (1–10): 1
+
+### What I built/learned today
+
+- Build my first state progrma.
+- sates are awsome we can do so many thing by porgrmer to remember the state of variable.
+
+### What confused me
+
+- I need more practice.
+
+### One thing that clicked
+
+- State can remeber thing and you can generate contant dynamicaly.
+
+### Tomorrow's first task
+
+- Doing the project.
+
+### Stuck on / need to revisit
+
+- States.
