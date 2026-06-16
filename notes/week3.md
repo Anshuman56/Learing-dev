@@ -55,7 +55,7 @@ Energy (1–10): 5
 
 - nothing.
 
-## Day 16 — TueshDay (11 June)
+## Day 17 — TueshDay (11 June)
 
 Time spent: 3h 10m
 Energy (1–10): 5
@@ -81,7 +81,7 @@ Energy (1–10): 5
 
 - nothing.
 
-## Day 17 — friday (12 June)
+## Day 18 — friday (12 June)
 
 Time spent: 3h 10m
 Energy (1–10): 5
@@ -107,7 +107,7 @@ Energy (1–10): 5
 
 - nothing.
 
-## Day 18 — suterday (12 June)
+## Day 19 — suterday (12 June)
 
 Time spent: 3h 10m
 Energy (1–10): 1
@@ -128,6 +128,31 @@ Energy (1–10): 1
 ### Tomorrow's first task
 
 - Doing the project.
+
+### Stuck on / need to revisit
+
+- States.
+
+## Day 20 — sunday (14 June)
+
+Time spent: 3h 10m
+Energy (1–10): 1
+
+### What I built/learned today
+
+- Build the project. With the help of lot's of thing like searching and AI.
+
+### What confused me
+
+- how event are pass from parent to child
+
+### One thing that clicked
+
+- some part of project click but so so.
+
+### Tomorrow's first task
+
+- read the state.
 
 ### Stuck on / need to revisit
 
