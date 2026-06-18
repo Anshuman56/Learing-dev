@@ -1,5 +1,5 @@
-import ListBuilder from "./listBuilder";
+import Counter from "./counter";
 
 export default function App() {
-  return <ListBuilder />;
+  return <Counter />;
 }

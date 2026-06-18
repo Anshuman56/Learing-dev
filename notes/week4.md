@@ -23,7 +23,7 @@ Energy (1–10): 1
 
 - Nothing.
 
-## Day 23 — Thursday (15 June)
+## Day 23 — Thursday (16 June)
 
 Time spent: 3h 10m
 Energy (1–10): 5
@@ -43,6 +43,32 @@ Energy (1–10): 5
 ### Tomorrow's first task
 
 - Do some counter render.
+
+### Stuck on / need to revisit
+
+- Nothing.
+
+## Day 24 — WednessDay (17 June)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- Read the state: State queue and how to represent object in stete.
+- when I call setState it first get the base value form the UseState after that if we set some thing like number or add or substract to the base value and after that if there are any other setState avilable do that. if there are state with fuction it will do that in the sencond rendering. and if there is another number to add to that state it remove all the value and update with that value.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- State and how it work and why we need state.
+
+### Tomorrow's first task
+
+- Read Responding to Events.
 
 ### Stuck on / need to revisit
 
