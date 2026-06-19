@@ -73,3 +73,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing.
+
+## Day 25 — WednessDay (18 June)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- Read the state passing as porp. And do the faranigh project by giving sate to the parent.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- How to transfor state to child.
+
+### Tomorrow's first task
+
+- Build a "List Manager"
+
+### Stuck on / need to revisit
+
+- Nothing.
