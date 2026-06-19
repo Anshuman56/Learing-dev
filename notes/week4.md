@@ -98,3 +98,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing.
+
+## Day 26 — WednessDay (19 June)
+
+Time spent: 3h 10m
+Energy (1–10): 7
+
+### What I built/learned today
+
+- Complete the todo project without any help. I debug and solve every proble.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- How to call a function form chile with parameter.
+
+### Tomorrow's first task
+
+- Build a todo-v2
+
+### Stuck on / need to revisit
+
+- Nothing.
