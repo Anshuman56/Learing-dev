@@ -74,7 +74,7 @@ Energy (1–10): 5
 
 - Nothing.
 
-## Day 25 — WednessDay (18 June)
+## Day 25 — TuseDay (18 June)
 
 Time spent: 3h 10m
 Energy (1–10): 5
@@ -99,7 +99,7 @@ Energy (1–10): 5
 
 - Nothing.
 
-## Day 26 — WednessDay (19 June)
+## Day 26 — Friday (19 June)
 
 Time spent: 3h 10m
 Energy (1–10): 7
@@ -119,6 +119,31 @@ Energy (1–10): 7
 ### Tomorrow's first task
 
 - Build a todo-v2
+
+### Stuck on / need to revisit
+
+- Nothing.
+
+## Day 27 — Sautuday (20 June)
+
+Time spent: 3h 10m
+Energy (1–10): 7
+
+### What I built/learned today
+
+- Complited the Todo-list-v2 project. And it is a fun one.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- Yes I know now how to filter and show the value of list.
+
+### Tomorrow's first task
+
+- rest day.
 
 ### Stuck on / need to revisit
 
