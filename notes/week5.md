@@ -23,7 +23,7 @@ Energy (1–10): 2
 
 - UseEffect.
 
-## Day 29 — Tuesday (22 June)
+## Day 30 — Tuesday (22 June)
 
 Time spent: 3h 10m
 Energy (1–10): 3
@@ -43,6 +43,42 @@ Energy (1–10): 3
 ### Tomorrow's first task
 
 - You Might Not Need an Effect faching react part.
+
+### Stuck on / need to revisit
+
+- UseEffect.
+
+## Day 31 — Wednesday (22 June)
+
+Time spent: 3h 10m
+Energy (1–10): 3
+
+### What I built/learned today
+
+Three pieces of state:
+
+- data (starts as null)
+- loading (starts as true)
+- error (starts as null)
+
+useEffect runs once on mount:
+
+- Set loading true
+- Call fetch
+- On success: set data, set loading false
+- On error: set error, set loading false
+
+### What confused me
+
+- feach data in useEffect.
+
+### One thing that clicked
+
+- clean up useEffect.
+
+### Tomorrow's first task
+
+- read Conditional Rendering
 
 ### Stuck on / need to revisit
 
