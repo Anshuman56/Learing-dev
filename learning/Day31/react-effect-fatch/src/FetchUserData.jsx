@@ -4,6 +4,32 @@ export default function FetchUserData() {
   const [user, setUser] = useState(null);
   const [loding, setLoding] = useState(true);
   const [error, setError] = useState("");
+  const [repo, setRepo] = useState(null);
+  const [repoLoading, setRepoLoadeing] = useState(true);
+  const [repoError, setRepoError] = useState("");
+
+  useEffect(() => {
+    async function getRepo() {
+      try {
+        setRepoLoadeing(true);
+
+        const response = await fetch(
+          "https://api.github.com/users/octocat/repos",
+        );
+        if (!response.ok) {
+          throw new Error("Failed to the fetch connection");
+        }
+        const data = await response.json();
+
+        setRepo(data);
+      } catch (err) {
+        setRepoError(err.message);
+      } finally {
+        setRepoLoadeing(false);
+      }
+    }
+    getRepo();
+  }, []);
 
   useEffect(() => {
     async function getUser() {
@@ -47,6 +73,23 @@ export default function FetchUserData() {
       <p>
         <strong>Followers:</strong> {user.followers}
       </p>
+
+      {repo.length !== 0 ? (
+        repo
+          .sort((a, b) => b.stargazers_count - a.stargazers_count)
+          .map((item, index) => {
+            return (
+              <div key={item.id}>
+                <h2>{item.name}</h2>
+                <p>{item.description || "not given"}</p>
+                <p>Language: {item.language || "not given"}</p>
+                <p>{item.stargazers_count}</p>
+              </div>
+            );
+          })
+      ) : (
+        <p>No repos found</p>
+      )}
     </div>
   );
 }

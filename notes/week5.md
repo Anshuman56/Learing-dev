@@ -83,3 +83,28 @@ useEffect runs once on mount:
 ### Stuck on / need to revisit
 
 - UseEffect.
+
+## Day 32 — Thursday (22 June)
+
+Time spent: 3h 10m
+Energy (1–10): 3
+
+### What I built/learned today
+
+- I learn the conditional render. And built the repo project.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- I like the contiotioanl rendering.
+
+### Tomorrow's first task
+
+- read Reacting to Input with State
+
+### Stuck on / need to revisit
+
+- UseEffect.
