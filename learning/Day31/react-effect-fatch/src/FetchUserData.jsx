@@ -1,94 +1,126 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 export default function FetchUserData() {
+  const [username, setUsername] = useState("");
+
   const [user, setUser] = useState(null);
-  const [loding, setLoding] = useState(true);
-  const [error, setError] = useState("");
-  const [repo, setRepo] = useState(null);
-  const [repoLoading, setRepoLoadeing] = useState(true);
+  const [repos, setRepos] = useState([]);
+
+  const [userLoading, setUserLoading] = useState(false);
+  const [repoLoading, setRepoLoading] = useState(false);
+
+  const [userError, setUserError] = useState("");
   const [repoError, setRepoError] = useState("");
 
-  useEffect(() => {
-    async function getRepo() {
-      try {
-        setRepoLoadeing(true);
+  async function searchUser() {
+    if (!username.trim()) return;
 
-        const response = await fetch(
-          "https://api.github.com/users/octocat/repos",
-        );
-        if (!response.ok) {
-          throw new Error("Failed to the fetch connection");
-        }
-        const data = await response.json();
+    setUser(null);
+    setRepos([]);
+    setUserError("");
+    setRepoError("");
 
-        setRepo(data);
-      } catch (err) {
-        setRepoError(err.message);
-      } finally {
-        setRepoLoadeing(false);
+    try {
+      setUserLoading(true);
+
+      const response = await fetch(`https://api.github.com/users/${username}`);
+
+      if (!response.ok) {
+        throw new Error("User not found");
       }
+
+      const data = await response.json();
+      setUser(data);
+    } catch (error) {
+      setUserError(error.message);
+    } finally {
+      setUserLoading(false);
     }
-    getRepo();
-  }, []);
 
-  useEffect(() => {
-    async function getUser() {
-      try {
-        setLoding(true);
+    try {
+      setRepoLoading(true);
 
-        const response = await fetch("https://api.github.com/users/octoca");
-        if (!response.ok) {
-          throw new Error("Failed to the fetch connection");
-        }
-        const data = await response.json();
-        setUser(data);
-      } catch (err) {
-        setError(err.message);
-      } finally {
-        setLoding(false);
+      const response = await fetch(
+        `https://api.github.com/users/${username}/repos`,
+      );
+
+      if (!response.ok) {
+        throw new Error("Failed to fetch repositories");
       }
-    }
-    getUser();
-  }, []);
 
-  if (error) {
-    return <h1>Error: {error}</h1>;
+      const data = await response.json();
+
+      const sortedRepos = data.sort(
+        (a, b) => b.stargazers_count - a.stargazers_count,
+      );
+
+      setRepos(sortedRepos);
+    } catch (error) {
+      setRepoError(error.message);
+    } finally {
+      setRepoLoading(false);
+    }
   }
-  if (loding) {
-    return <h1>Loding..</h1>;
-  }
+
   return (
     <div>
-      <img src={user.avatar_url} alt={user.login} width="150" />
+      <h1>GitHub User Search</h1>
 
-      <h1>{user.name}</h1>
-      <h2>@{user.login}</h2>
+      <input
+        type="text"
+        placeholder="Enter GitHub username"
+        value={username}
+        onChange={(e) => setUsername(e.target.value)}
+      />
 
-      <p>{user.bio}</p>
+      <button onClick={searchUser}>Search</button>
 
-      <p>
-        <strong>Public Repositories:</strong> {user.public_repos}
-      </p>
+      <hr />
 
-      <p>
-        <strong>Followers:</strong> {user.followers}
-      </p>
-
-      {repo.length !== 0 ? (
-        repo
-          .sort((a, b) => b.stargazers_count - a.stargazers_count)
-          .map((item, index) => {
-            return (
-              <div key={item.id}>
-                <h2>{item.name}</h2>
-                <p>{item.description || "not given"}</p>
-                <p>Language: {item.language || "not given"}</p>
-                <p>{item.stargazers_count}</p>
-              </div>
-            );
-          })
+      {userLoading ? (
+        <p>Loading user...</p>
+      ) : userError ? (
+        <p>{userError}</p>
       ) : (
+        user && (
+          <div>
+            <img src={user.avatar_url} alt={user.login} width="150" />
+
+            <h2>{user.name}</h2>
+            <p>@{user.login}</p>
+
+            <p>{user.bio}</p>
+
+            <p>Public Repositories: {user.public_repos}</p>
+            <p>Followers: {user.followers}</p>
+          </div>
+        )
+      )}
+
+      <hr />
+
+      <h2>Repositories</h2>
+
+      {repoLoading ? (
+        <p>Loading repositories...</p>
+      ) : repoError ? (
+        <p>{repoError}</p>
+      ) : repos.length === 0 ? (
         <p>No repos found</p>
+      ) : (
+        <ul>
+          {repos.map((repo) => (
+            <li key={repo.id}>
+              <h3>{repo.name}</h3>
+
+              <p>{repo.description || "No description"}</p>
+
+              <p>Language: {repo.language || "Not specified"}</p>
+
+              <p>⭐ {repo.stargazers_count}</p>
+            </li>
+          ))}
+        </ul>
       )}
     </div>
   );

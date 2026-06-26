@@ -108,3 +108,28 @@ Energy (1–10): 3
 ### Stuck on / need to revisit
 
 - UseEffect.
+
+## Day 33 — Friday (22 June)
+
+Time spent: 3h 10m
+Energy (1–10): 3
+
+### What I built/learned today
+
+- I know like where the state need in intaraction. I not do the project ChatGPT do.
+
+### What confused me
+
+- UseEffect.
+
+### One thing that clicked
+
+- nothing clicked man.
+
+### Tomorrow's first task
+
+- Do tha same project.
+
+### Stuck on / need to revisit
+
+- UseEffect.
