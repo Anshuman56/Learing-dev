@@ -48,7 +48,7 @@ Energy (1–10): 3
 
 - UseEffect.
 
-## Day 31 — Wednesday (22 June)
+## Day 31 — Wednesday (23 June)
 
 Time spent: 3h 10m
 Energy (1–10): 3
@@ -84,7 +84,7 @@ useEffect runs once on mount:
 
 - UseEffect.
 
-## Day 32 — Thursday (22 June)
+## Day 32 — Thursday (25 June)
 
 Time spent: 3h 10m
 Energy (1–10): 3
@@ -109,7 +109,7 @@ Energy (1–10): 3
 
 - UseEffect.
 
-## Day 33 — Friday (22 June)
+## Day 33 — Friday (26 June)
 
 Time spent: 3h 10m
 Energy (1–10): 3
@@ -129,6 +129,31 @@ Energy (1–10): 3
 ### Tomorrow's first task
 
 - Do tha same project.
+
+### Stuck on / need to revisit
+
+- UseEffect.
+
+## Day 34 — suturday (27 June)
+
+Time spent: 3h 10m
+Energy (1–10): 3
+
+### What I built/learned today
+
+- Complete the effect project and with take the sunday time.
+
+### What confused me
+
+- UseEffect.
+
+### One thing that clicked
+
+- nothing.
+
+### Tomorrow's first task
+
+- rest.
 
 ### Stuck on / need to revisit
 
