@@ -22,3 +22,28 @@ Energy (1–10): 3
 ### Stuck on / need to revisit
 
 - Nothing.
+
+## Day 36 — Monday (30 June)
+
+Time spent: 3h 10m
+Energy (1–10): 3
+
+### What I built/learned today
+
+- Read the lifecycle of UseEffect. And make the search project.
+
+### What confused me
+
+- Nothing
+
+### One thing that clicked
+
+- Understand the lifecycle of useEffect. it did not depend on anything other that dependency if you don't pass any dependencey then when the componet show in the screen. then it will run effect.
+
+### Tomorrow's first task
+
+- Re-read You Might Not Need an Effect
+
+### Stuck on / need to revisit
+
+- Nothing.
