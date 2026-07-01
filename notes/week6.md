@@ -47,3 +47,28 @@ Energy (1–10): 3
 ### Stuck on / need to revisit
 
 - Nothing.
+
+## Day 36 — Monday (30 June)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- how to show error, and how to show loding in the screen. And how to fetch data.
+
+### What confused me
+
+- Nothing
+
+### One thing that clicked
+
+- error handling, show loding screen.
+
+### Tomorrow's first task
+
+- read talwind.
+
+### Stuck on / need to revisit
+
+- Nothing.
