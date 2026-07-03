@@ -23,7 +23,7 @@ Energy (1–10): 3
 
 - Nothing.
 
-## Day 36 — Monday (30 June)
+## Day 36 — TuesDay (30 June)
 
 Time spent: 3h 10m
 Energy (1–10): 3
@@ -48,7 +48,7 @@ Energy (1–10): 3
 
 - Nothing.
 
-## Day 36 — Monday (30 June)
+## Day 36 — WednesDay (30 June)
 
 Time spent: 3h 10m
 Energy (1–10): 5
@@ -68,6 +68,31 @@ Energy (1–10): 5
 ### Tomorrow's first task
 
 - read talwind.
+
+### Stuck on / need to revisit
+
+- Nothing.
+
+## Day 36 — ThersDay (30 June)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- Learn how to install talwind.
+
+### What confused me
+
+- Nothing
+
+### One thing that clicked
+
+- How to install and configur the talwind
+
+### Tomorrow's first task
+
+- read hover and other things
 
 ### Stuck on / need to revisit
 
