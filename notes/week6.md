@@ -48,7 +48,7 @@ Energy (1–10): 3
 
 - Nothing.
 
-## Day 36 — WednesDay (30 June)
+## Day 37 — WednesDay (30 June)
 
 Time spent: 3h 10m
 Energy (1–10): 5
@@ -73,7 +73,7 @@ Energy (1–10): 5
 
 - Nothing.
 
-## Day 36 — ThersDay (30 June)
+## Day 38 — ThersDay (30 June)
 
 Time spent: 3h 10m
 Energy (1–10): 5
@@ -97,3 +97,53 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing.
+
+## Day 39 — FriDay (30 June)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- build the bio page with the help of AI.
+
+### What confused me
+
+- I don't know who and where to start in tailwind ofter install.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- tomorro is sunday but I will try to build the saturday project.
+
+### Stuck on / need to revisit
+
+- tailwind.
+
+## Day 39 — SunDay (30 June)
+
+Time spent: 3h 10m
+Energy (1–10): 4
+
+### What I built/learned today
+
+- Build the Pokemon desing project with the help of AI
+
+### What confused me
+
+- I don't know who and where to start tailwind after install.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- generate the week 7, and tell that I don't understand tailwind well.
+
+### Stuck on / need to revisit
+
+- tailwind.
