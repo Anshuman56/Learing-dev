@@ -72,3 +72,53 @@ Energy (1–10): 4
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 46 — thersDay (9 july)
+
+Time spent: 3h 10m
+Energy (1–10): 4
+
+### What I built/learned today
+
+- Read the grid-col and build the three card layout.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- how to do Hidden.
+
+### Tomorrow's first task
+
+- Build one SaaS-style pricing card.
+
+### Stuck on / need to revisit
+
+- Nothing
+
+## Day 47 — FriDay (10 july)
+
+Time spent: 3h 10m
+Energy (1–10): 4
+
+### What I built/learned today
+
+- I did the price project with small help form AI.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- how to confidently think the desing?
+
+### Tomorrow's first task
+
+- redo the pokemon project design.
+
+### Stuck on / need to revisit
+
+- Nothing

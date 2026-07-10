@@ -1,7 +1,7 @@
 export default function SignIn() {
   return (
-    <div className="flex items-center h-screen">
-      <div className="bg-gray-200 max-w-xs mx-auto py-5 px-4 rounded-2xl">
+    <div className="flex items-center my-5 h-screen">
+      <div className="bg-gray-200/40 max-w-xs mx-auto py-5 px-4 rounded-2xl">
         <h1 className="text-center my-3 text-2xl font-bold    ">Sign-In</h1>
         <label className="">Enter the email</label>{" "}
         <input
