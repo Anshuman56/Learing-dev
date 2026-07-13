@@ -122,3 +122,28 @@ Energy (1–10): 4
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 47 — SaturDay (10 july)
+
+Time spent: 3h 10m
+Energy (1–10): 4
+
+### What I built/learned today
+
+- Done the tailwind project without help of AI and little bit help of previus code.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- how to confidently think about desing?
+
+### Tomorrow's first task
+
+- rest.
+
+### Stuck on / need to revisit
+
+- Nothing
