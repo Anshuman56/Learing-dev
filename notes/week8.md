@@ -22,3 +22,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 51 — TuseDay (14 july)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- how to install express and how to create a server in express.
+
+### What confused me
+
+- Right now nothing.
+
+### One thing that clicked
+
+- how to create a router that lesten to a path like /.
+
+### Tomorrow's first task
+
+- Read expressjs.com — "Using middleware".
+
+### Stuck on / need to revisit
+
+- Nothing
