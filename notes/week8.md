@@ -47,3 +47,78 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 52 — WednesDay (14 july)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- Learn about middleware. And In the first time I did not understand but now some what know they are just function that run on every request.
+
+### What confused me
+
+- Why use middleware in the first place?
+
+### One thing that clicked
+
+- app.use();
+
+### Tomorrow's first task
+
+- search "REST API conventions"
+
+### Stuck on / need to revisit
+
+- Nothing
+
+## Day 53 — friDay (17 july)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- Build the CRUD app.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- post method.
+
+### Tomorrow's first task
+
+- search "cors"
+
+### Stuck on / need to revisit
+
+- Nothing
+
+## Day 54 — saturDay (18 july)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- connect to the react app to the server.
+
+### What confused me
+
+- I don't know how thing work?
+
+### One thing that clicked
+
+- useEffect to fetch the list.
+
+### Tomorrow's first task
+
+- Big project.
+
+### Stuck on / need to revisit
+
+- Nothing
