@@ -122,3 +122,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 55 — SunDay (19 july)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I build the todo project with a backend that store todos in a array and when you send request from a react clint it will update, delete, create, show the todos. I learn cors(cross origin resouse sharing) where it will talk to my fontend to backend.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- PUT, POST, DELETE call from react with header and body. we need header and body in put and post. But not in delete.
+
+### Tomorrow's first task
+
+- let's see what we will do?
+
+### Stuck on / need to revisit
+
+- Nothing
