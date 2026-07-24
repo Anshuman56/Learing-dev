@@ -48,3 +48,78 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 59 — WednessDay (20 july)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- This is a hectic day. But I complite some of them and know how to conect and add data to in mongoose.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- how to conect to mongodb through mongoose and create schema and model.
+
+### Tomorrow's first task
+
+- Refactor notes-api to use MongoDB
+
+### Stuck on / need to revisit
+
+- Schema
+
+## Day 60 — ThursDay (20 july)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- Build the note-api server with mongodb connection with mongoose and data can be created, deleted and update with the appropriet root.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- How to update the data in mongoose.
+
+### Tomorrow's first task
+
+- read Render docs.
+
+### Stuck on / need to revisit
+
+- Nothing.
+
+## Day 60 — FryDay (24 july)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- complited all the projects and deployed to versel and render.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- how to create rest API.
+
+### Tomorrow's first task
+
+- rest or start the new week.
+
+### Stuck on / need to revisit
+
+- Nothing.
