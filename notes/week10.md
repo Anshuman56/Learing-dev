@@ -22,3 +22,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 65 — TuesDay (28 july)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- The difference between decode and verifying is. If we decode a jwt token it will give the payload but if you verifying with a signeture if the signeture is worng it will not decode the payload.
+
+### What confused me
+
+- why we need jwt?
+
+### One thing that clicked
+
+- How to verify and decode a token.
+
+### Tomorrow's first task
+
+- Build register + login endpoints
+
+### Stuck on / need to revisit
+
+- Nothing
