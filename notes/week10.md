@@ -47,3 +47,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 66 — WednesDay (28 july)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I buld my first login and register api in express when you hit the register router you will sign in with you email and password and after that if you hit the login route you can give your password and login to login into site. if the email and password wrong it will give you error.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- How every site do login.
+
+### Tomorrow's first task
+
+- Read expressjs.com → "Writing middleware"
+
+### Stuck on / need to revisit
+
+- Nothing
