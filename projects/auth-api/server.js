@@ -4,6 +4,7 @@ const cors = require("cors");
 const mongoose = require("mongoose");
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
+const authRequired = require("./middleware/authRequired");
 
 const app = express();
 const port = 3000;
@@ -69,6 +70,17 @@ async function main() {
         res.status(500).json({ error: "Server error" });
       }
     });
+
+    app.get("/me", authRequired, async (req, res) => {
+      try {
+        const user = await User.findById(req.userId);
+        res.send(user.email);
+      } catch (err) {
+        console.log(err.message);
+      }
+    });
+
+    console.log("/me route registered");
   } catch (err) {
     console.error(err.message);
   }
@@ -77,6 +89,10 @@ main();
 
 app.get("/", (req, res) => {
   res.send("hello world");
+});
+
+app.get("/public", (req, res) => {
+  res.send("anyone can hit it.");
 });
 
 app.listen(port, () => {

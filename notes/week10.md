@@ -72,3 +72,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 66 — ThursDay (30 july)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I built the authRequired middleware and now I now how to export a module and run into the route. I know now how to get data from header and verify with the jsonwebtoken.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- module export.
+
+### Tomorrow's first task
+
+- Read about localStorage. Search "localStorage vs cookies for JWT"
+
+### Stuck on / need to revisit
+
+- Nothing
