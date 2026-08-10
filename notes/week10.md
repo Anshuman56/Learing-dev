@@ -97,3 +97,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 67 — FriDay (31 july)
+
+Time spent: 3h 10m
+Energy (1–10): 2
+
+### What I built/learned today
+
+- I build the frame of the project but AI all some nice UI.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- module export.
+
+### Tomorrow's first task
+
+- Saturday: Full-stack Notes app with authentication
+
+### Stuck on / need to revisit
+
+- Nothing

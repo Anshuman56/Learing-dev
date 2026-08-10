@@ -60,7 +60,7 @@ async function main() {
               process.env.JWT_SECRET,
               { expiresIn: "1day" },
             );
-            res.send(token);
+            res.json({ token });
           } else {
             return res.status(401).json({ error: "Invalid credentials" });
           }
@@ -74,7 +74,7 @@ async function main() {
     app.get("/me", authRequired, async (req, res) => {
       try {
         const user = await User.findById(req.userId);
-        res.send(user.email);
+        res.json({ userEmail: user.email });
       } catch (err) {
         console.log(err.message);
       }
