@@ -47,3 +47,53 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 65 — WednessDay (12 August)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- The defference between the verify and decode is when the token is tampered it will give the payload but not in verify when you tamper the token it will throw an error in verify.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- How I can use jwt and create the token.
+
+### Tomorrow's first task
+
+- Register + login endpoints
+
+### Stuck on / need to revisit
+
+- Nothing
+
+## Day 65 - ThursDay (13 August)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I build a simple registation and login path that will listen to post request and save your registation if you don't registred and if you already registerd you don't get registerd twice. And when you login with your data if you enter any wrong password or something it will give you error. and if you correctly put your data it will give a token.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- I forget how to use schema and model.
+
+### Tomorrow's first task
+
+- Read expressjs.com → "Writing middleware"
+
+### Stuck on / need to revisit
+
+- Nothing
