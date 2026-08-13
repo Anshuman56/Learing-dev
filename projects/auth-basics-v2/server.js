@@ -28,7 +28,8 @@ async function main() {
         const { email, password } = req.body;
         const user = await User.find({ email: email });
 
-        if (user.length !== 0) res.status(400).json({ error: "Email Taken" });
+        if (user.length !== 0)
+          return res.status(400).json({ error: "Email Taken" });
         else {
           const hash = await bcrypt.hash(password, 10);
 
@@ -40,8 +41,30 @@ async function main() {
       }
     });
 
-    // const compare = await bcrypt.compare("helo", hash);
-    // console.log(compare);
+    app.post("/login", async (req, res) => {
+      try {
+        const { email, password } = req.body;
+        const user = await User.find({ email: email });
+        console.log(user);
+        if (user.length === 0)
+          return res.status(401).json({ error: "Invalid Credentials" });
+        else {
+          const passwordHash = user[0].passwordHash;
+          const compare = await bcrypt.compare(password, passwordHash);
+          if (!compare)
+            return res.status(401).json({ error: "Invalid Credentials" });
+          else {
+            const playload = { userId: user[0]._id };
+            const token = jwt.sign(playload, process.env.MY_SECRET, {
+              expiresIn: "1d",
+            });
+            res.status(200).json({ token: token });
+          }
+        }
+      } catch (err) {
+        console.error(err.message);
+      }
+    });
   } catch (err) {
     console.error(err.message);
   }
