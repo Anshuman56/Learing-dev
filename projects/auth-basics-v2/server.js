@@ -4,6 +4,7 @@ const express = require("express");
 const cors = require("cors");
 const jwt = require("jsonwebtoken");
 const mongoose = require("mongoose");
+const authRequired = require("./middleware/authRequired");
 
 const app = express();
 const port = 3000;
@@ -45,7 +46,7 @@ async function main() {
       try {
         const { email, password } = req.body;
         const user = await User.find({ email: email });
-        console.log(user);
+
         if (user.length === 0)
           return res.status(401).json({ error: "Invalid Credentials" });
         else {
@@ -65,6 +66,11 @@ async function main() {
         console.error(err.message);
       }
     });
+
+    app.get("/me", authRequired, async (req, res) => {
+      const user = await User.findById(req.userId);
+      res.status(200).json({ email: user.email });
+    });
   } catch (err) {
     console.error(err.message);
   }
@@ -74,6 +80,9 @@ main();
 
 app.get("/", (req, res) => {
   res.send("Hello");
+});
+app.get("/public", (req, res) => {
+  res.send("This is public");
 });
 
 app.listen(port, () => {

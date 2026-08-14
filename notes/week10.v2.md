@@ -97,3 +97,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 66 - FriDay (14 August)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- add the authorization token to a protected routes in node.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- How to do authorization if the user access a protected route.
+
+### Tomorrow's first task
+
+- Multi-user notes API
+
+### Stuck on / need to revisit
+
+- Nothing
