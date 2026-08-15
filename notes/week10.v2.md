@@ -122,3 +122,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 66 - SaturDay (14 August)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- Learn how to protect the endpoint with authorization token.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- How multi user happen in real project.
+
+### Tomorrow's first task
+
+- reast
+
+### Stuck on / need to revisit
+
+- Nothing
