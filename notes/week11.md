@@ -47,3 +47,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 73 — WednessDay (19 August)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- add a login page and requireAuth wrapper.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- how to do requireAuth middleware in react
+
+### Tomorrow's first task
+
+- The notes page — list + fetch
+
+### Stuck on / need to revisit
+
+- Nothing
