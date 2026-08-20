@@ -72,3 +72,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 73 — ThersDay (20 August)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- add notes list page with fetch and handle 401 with auto-logout
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- how to chatch 401 error status by passing from response to error
+
+### Tomorrow's first task
+
+- Add, edit, delete notes
+
+### Stuck on / need to revisit
+
+- Nothing
