@@ -73,7 +73,7 @@ Energy (1–10): 5
 
 - Nothing
 
-## Day 73 — ThersDay (20 August)
+## Day 74 — ThersDay (20 August)
 
 Time spent: 3h 10m
 Energy (1–10): 5
@@ -93,6 +93,31 @@ Energy (1–10): 5
 ### Tomorrow's first task
 
 - Add, edit, delete notes
+
+### Stuck on / need to revisit
+
+- Nothing
+
+## Day 75 — FriDay (21 August)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- add note creation, add note deletion, add inline note editing"
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- how to do inline note editing.
+
+### Tomorrow's first task
+
+- Deploy to Vercel + end-to-end acceptance
 
 ### Stuck on / need to revisit
 
