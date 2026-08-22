@@ -122,3 +122,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 76 — SaturDay (22 August)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- Deploy to versel and add readme to all.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- How to do deploy to vercel.
+
+### Tomorrow's first task
+
+- rest.
+
+### Stuck on / need to revisit
+
+- Nothing
