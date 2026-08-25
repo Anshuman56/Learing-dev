@@ -1,7 +1,10 @@
 async function apiFetch(url, path = "", option = {}) {
   option = {
     ...option,
-    headers: { ...option.headers, "Content-Type": "application/json" },
+    headers: {
+      ...option.headers,
+      ...{ "Content-Type": "application/json" },
+    },
   };
   console.log(option);
   const respons = await fetch(url + path, option);
