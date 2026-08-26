@@ -48,3 +48,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 80 — WednesDay (24 August)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I built the book endpoint in the note-auth-api. All the CRUD operation and the react front end with react router install and give them home, login, register, book router with placeholder values.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Book Tracker — auth pages + RequireAuth
+
+### Stuck on / need to revisit
+
+- Nothing
