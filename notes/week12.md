@@ -73,3 +73,78 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 80 — ThursDay (24 August)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I built the home page, register page and login page. where you can register with our application with the email id and password and login to books page.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- apiFetch function.
+
+### Tomorrow's first task
+
+- Book Tracker — CRUD
+
+### Stuck on / need to revisit
+
+- Nothing
+
+## Day 81 — FriDay (28 August)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I built the books page where you can see the all the book you add to your account and you can update there status and add more books and delete it.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- PUT call from react.
+
+### Tomorrow's first task
+
+- Deploy + the honest test
+
+### Stuck on / need to revisit
+
+- Nothing
+
+## Day 81 — SaturDay (29 August)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- deployed the book front end to Vercel
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- rest.
+
+### Stuck on / need to revisit
+
+- Nothing
