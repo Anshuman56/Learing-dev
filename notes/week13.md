@@ -22,3 +22,53 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 86 — TuesDay (1 September)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- learned about give react props type in type script and give type to useState hook. By providing the type in useState<type> format. And I build my three type tsx file in react. Where one component can add number and two other component show the data in reader with type system.
+
+### What confused me
+
+- Why we should give event a type in dom events like onChange in input.
+
+### One thing that clicked
+
+- how to give useState a type.
+
+### Tomorrow's first task
+
+- TS-ify book-tracker — auth layer
+
+### Stuck on / need to revisit
+
+- Nothing
+
+## Day 86 — wednesDay (2 September)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I just copy the code and do what ever the wednesday thing there in claude. And today i get sick.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- nothing.
+
+### Tomorrow's first task
+
+- TS-ify book-tracker — auth pages
+
+### Stuck on / need to revisit
+
+- Nothing
