@@ -72,3 +72,30 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 87 — FriDay (4 September)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I just copy the bookPage code and give them the type.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- nothing.
+
+### Tomorrow's first task
+
+- Deploy + reflect on the migration
+
+### Stuck on / need to revisit
+
+- Nothing
+
+### Tomorrow's first task
