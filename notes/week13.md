@@ -98,4 +98,30 @@ Energy (1–10): 5
 
 - Nothing
 
+## Day 87 — SaturDay (5 September)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- Which files were biggest pain to migrate? Why? ans: Those where events are there. I did not understand them so I did not do that.
+- Which TS errors surprised you? ans: When I get error in the catch it did not recognize the err variable I pass to catch the Error. I have to use the instanceof to solve this problem.
+- Did TS catch any actual bugs in your original code? ans: yes, it did get the bug like in the catch section.
+- Are there any places where TS felt like it was slowing you down for no reason? ans: No, not at all it fun to give them type and it remind me if I pass some wrong data to wrong variable.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- nothing.
+
 ### Tomorrow's first task
+
+- rest.
+
+### Stuck on / need to revisit
+
+- Nothing
