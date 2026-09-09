@@ -49,3 +49,30 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 91 — WednesDay (9 September)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I read about generic. If you give a function this type you will pass any type like string, number and object and it will give the same type return or deferent type return if you specify that in the code.
+- I really like this type things.
+- And I build the 4 project that claude give me one is the simple function where you pass any type it will give that same result and type back. Second one will take any type of array of that type like sting or number and return the first value of the array. Third one is fetch function it will take url and give a promise of that same type. Forth one is interesting you can pass two type in they generic type and you can return the result in a swap format and there type also.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Generics
+
+### Stuck on / need to revisit
+
+- Nothing
