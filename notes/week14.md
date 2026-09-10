@@ -76,3 +76,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 91 — ThursDay (10 September)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I build the api that fetch data from github and with type all the thing I learned so far. Like generic, popes, function and event types in react.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Typed GitHub Explorer — finish
+
+### Stuck on / need to revisit
+
+- Nothing
