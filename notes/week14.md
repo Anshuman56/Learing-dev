@@ -101,3 +101,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 96 — FriDay (11 September)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I build user card and there repos cards with the style. And pass that these props to there corresponding tsx file.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Deploy + the honest test
+
+### Stuck on / need to revisit
+
+- Nothing
