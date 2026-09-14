@@ -126,3 +126,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 96 — SaturDay (12 September)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I build the whole userCard.tsx one more time and deploy the github explore app to Vercel.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Rest.
+
+### Stuck on / need to revisit
+
+- Nothing
