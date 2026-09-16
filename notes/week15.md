@@ -49,3 +49,29 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 101 — WednesDay (16 September)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I build the search box component where the user can write any github user and there repo and user data will show in the frontend.
+- I read about the client component part where you pass data to server component by using useRoute hook.
+
+### What confused me
+
+- So many things.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Client Components — the search box
+
+### Stuck on / need to revisit
+
+- Nothing
