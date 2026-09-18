@@ -75,3 +75,53 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 102 — ThursDay (17 September)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I read an build the error and not-found page and it work but i fully don't understand how those things work under hood.
+
+### What confused me
+
+- So many things.
+
+### One thing that clicked
+
+- Loading page.
+
+### Tomorrow's first task
+
+- Polish + metadata + layouts
+
+### Stuck on / need to revisit
+
+- Nothing
+
+## Day 103 — FriDay (18 September)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I add the style and a metadata into the user page.tsx. And add a nav into the layout add the Image component and there config to the next.config.ts.
+
+### What confused me
+
+- So many things.
+
+### One thing that clicked
+
+- Image component
+
+### Tomorrow's first task
+
+- Deploy + the honest comparison
+
+### Stuck on / need to revisit
+
+- Nothing
