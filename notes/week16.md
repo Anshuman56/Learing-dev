@@ -1,0 +1,24 @@
+## Day 106 — MonDay (21 September)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- Server Components render on the server because it fetch data from api or database and send the html and RSC Payload to the client and react will create the dom tree by the help of React Server Component Payload (RSC Payload). Client Components render in the browser because after the render tree build the event like click and onchange in the client. The way you tell them apart in code is client components use "use client" in the top. If you don't give that and use useState like hook it will give you error.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- Where to use server component and where to use client component. And what are there deference.
+
+### Tomorrow's first task
+
+- File conventions drill
+
+### Stuck on / need to revisit
+
+- Nothing
