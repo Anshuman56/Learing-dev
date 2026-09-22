@@ -22,3 +22,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 107 — TuesDay (21 September)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I built a next js pokemon project where you can see the pokemon name and you can route to individual pokemon by /pokemon/[name] route.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Data fetching patterns — when to Server, when to Client
+
+### Stuck on / need to revisit
+
+- Nothing
