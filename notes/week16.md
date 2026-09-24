@@ -72,3 +72,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 107 — ThursDay (24 September)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I just built a new next js project and write the code for search component.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Recipe Explorer — finish the data + display
+
+### Stuck on / need to revisit
+
+- Nothing

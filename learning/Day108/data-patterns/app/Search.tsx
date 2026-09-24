@@ -13,7 +13,11 @@ export default function SearchBox() {
 
   return (
     <div>
-      <input value={query} onChange={(e) => setQuery(e.target.value)} />
+      <input
+        value={query}
+        className="border rounded"
+        onChange={(e) => setQuery(e.target.value)}
+      />
 
       <button onClick={handleSearch}>Search</button>
     </div>
