@@ -97,3 +97,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 108 — FriDay (25 September)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I just built the weather page where you search a city and you get the temperature and weather data for three days.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Deploy + the honest test
+
+### Stuck on / need to revisit
+
+- Nothing
