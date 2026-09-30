@@ -47,3 +47,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 114 — WednesDay (30 September)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I build the sever action think. That I don't understand.
+
+### What confused me
+
+- sever action
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Guestbook — start the real project
+
+### Stuck on / need to revisit
+
+- Nothing
