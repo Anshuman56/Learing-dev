@@ -72,3 +72,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 116 — WednesDay (01 October)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I just show all the message in the home page.
+
+### What confused me
+
+- sever action
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Guestbook — delete + polish
+
+### Stuck on / need to revisit
+
+- Nothing
