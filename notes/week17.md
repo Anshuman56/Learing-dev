@@ -73,7 +73,7 @@ Energy (1–10): 5
 
 - Nothing
 
-## Day 116 — WednesDay (01 October)
+## Day 116 — ThursDay (01 October)
 
 Time spent: 3h 10m
 Energy (1–10): 5
@@ -93,6 +93,31 @@ Energy (1–10): 5
 ### Tomorrow's first task
 
 - Guestbook — delete + polish
+
+### Stuck on / need to revisit
+
+- Nothing
+
+## Day 117 — FriDay (02 October)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I add to the guestbook a delete message action and add error and loading.
+
+### What confused me
+
+- sever action
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Deploy + the honest test
 
 ### Stuck on / need to revisit
 
