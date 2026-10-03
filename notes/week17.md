@@ -122,3 +122,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 117 — SaturDay (03 October)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I just do the work like deploy to vercel and copy the mongodb connection and build route handler.
+
+### What confused me
+
+- sever action
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Rest
+
+### Stuck on / need to revisit
+
+- Nothing
