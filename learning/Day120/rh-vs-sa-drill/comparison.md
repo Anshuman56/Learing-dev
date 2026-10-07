@@ -1,0 +1,5 @@
+- Version-a has more code.
+- In version-a the page run in client and the api/likes run on the server.
+- In version-b the page run in the client and action run on the server.
+- Version-a can let me in to increase the likes.
+- version-b is simpler.
