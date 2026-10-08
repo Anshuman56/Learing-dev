@@ -47,3 +47,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 123 — ThursDay (08 October)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- Stated the capstone project and build the lunching soon page.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Landing page as a real marketing page
+
+### Stuck on / need to revisit
+
+- Nothing
