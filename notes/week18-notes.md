@@ -62,3 +62,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 129 — WednesDay (12 October)
+
+Time spent: 2h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I do the drills of useActionState. How to show the error and success message in client component.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Fix the hero on the real site
+
+### Stuck on / need to revisit
+
+- Nothing
