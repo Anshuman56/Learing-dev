@@ -87,3 +87,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 130 — ThursDay (15 October)
+
+Time spent: 2h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I implement the new thing like added a success message and error message when you give email though wait list form.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Build the rest of the landing page
+
+### Stuck on / need to revisit
+
+- Nothing
