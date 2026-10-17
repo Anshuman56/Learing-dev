@@ -112,3 +112,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 132 — SaturDay (17 October)
+
+Time spent: 2h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I write the readme life of capstone project.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Rest.
+
+### Stuck on / need to revisit
+
+- Nothing
