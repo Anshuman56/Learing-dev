@@ -50,3 +50,53 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 126 — WednesDay (21 October)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I wire the listing validation and what are the form field in the listing. And there types in typescript.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Build the Sell page
+
+### Stuck on / need to revisit
+
+- Nothing
+
+## Day 126 — ThursDay (22 October)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- write the code for a farmer can list there crop. I add a modal called sellList and create an action where data can store to the mongoDB. And a form list where a farmer can add the crop name, price, etc.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Listings page + WhatsApp button
+
+### Stuck on / need to revisit
+
+- Nothing
