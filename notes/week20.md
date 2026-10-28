@@ -50,3 +50,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 141 — WednesDay (28 October)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- Using the AI build the filter fetcher.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- LinkedIn setup + first DSA
+
+### Stuck on / need to revisit
+
+- Nothing
