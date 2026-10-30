@@ -100,3 +100,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 145 — FriDay (30 October)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I just wright the week20-haat.md file.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- HDSA foundations + haat follow-up
+
+### Stuck on / need to revisit
+
+- Nothing
