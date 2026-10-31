@@ -125,3 +125,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 145 — SaturDay (30 October)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- Today I learn about the time complexity and space complexity of an program.
+
+### What confused me
+
+- Nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- rest
+
+### Stuck on / need to revisit
+
+- Nothing
