@@ -23,7 +23,7 @@ Energy (1–10): 5
 
 - Nothing
 
-## Day 148 — MonDay (3 November)
+## Day 148 — TusDay (3 November)
 
 Time spent: 3h 10m
 Energy (1–10): 5
@@ -31,6 +31,31 @@ Energy (1–10): 5
 ### What I built/learned today
 
 - Do the Dsa and read the Map object.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- MongoDB filter consolidation
+
+### Stuck on / need to revisit
+
+- Nothing
+
+## Day 150 — WednesDay (4 November)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I do the work on mongoDB filter and fix the krusi connection filter.
 
 ### What confused me
 
