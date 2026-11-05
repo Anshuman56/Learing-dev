@@ -72,3 +72,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 151 — WednesDay (4 November)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I do a Dsa I it is really hard and I can't done anything and see the AI answer.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Haat, round 2
+
+### Stuck on / need to revisit
+
+- Nothing
