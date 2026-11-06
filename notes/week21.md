@@ -73,7 +73,7 @@ Energy (1–10): 5
 
 - Nothing
 
-## Day 151 — WednesDay (4 November)
+## Day 151 — ThursDay (4 November)
 
 Time spent: 3h 10m
 Energy (1–10): 5
@@ -93,6 +93,31 @@ Energy (1–10): 5
 ### Tomorrow's first task
 
 - Haat, round 2
+
+### Stuck on / need to revisit
+
+- Nothing
+
+## Day 152 — FriDay (6 November)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I just talk to some farmer in our local market.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- The first buyer + the decision
 
 ### Stuck on / need to revisit
 
