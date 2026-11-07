@@ -122,3 +122,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 153 — SaturDay (7 November)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I just change the whole hotel things to Traders.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Rest.
+
+### Stuck on / need to revisit
+
+- Nothing
