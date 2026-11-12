@@ -47,3 +47,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day 155 — ThursDay (10 November)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I do the two sum dsa problem and it did not click in my mind so I watch the previous answer and copy it.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Haat round 3, the first real Option C listing
+
+### Stuck on / need to revisit
+
+- Nothing
