@@ -73,7 +73,7 @@ Energy (1–10): 5
 
 - Nothing
 
-## Day 155 — ThursDay (10 November)
+## Day 155 — friDay (13 November)
 
 Time spent: 3h 10m
 Energy (1–10): 5
@@ -81,6 +81,31 @@ Energy (1–10): 5
 ### What I built/learned today
 
 - Today some one just talk to me rudely and I never go to that person again.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Fix what Friday showed + publish
+
+### Stuck on / need to revisit
+
+- Nothing
+
+## Day 155 — SaturDay (14 November)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- Today I just do the same Valid Anagram DSA.
 
 ### What confused me
 
