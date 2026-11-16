@@ -1,0 +1,33 @@
+Anshuman Dehury
+89176967321
+anshumandehury@gmail.com
+Angul, Odisha
+https://github.com/Anshuman56/
+https://www.linkedin.com/in/anshuman-dehury-aba40a267/
+https://krushi-connect-psi.vercel.app/: This the project connect farmer to bulk buyers.
+
+Summary: I am a Full-stack developer (React, Next.js, Node, MongoDB). Built KrushiConnect, for Odisha farmers, based on real user research in villages near Angul.
+
+Projects: 
+KrushiConnect:
+https://krushi-connect-psi.vercel.app/
+https://github.com/Anshuman56/krushi-connect
+Tach Stack: TypeScript, NextJs, mondodb.
+- Farmers can add there product quantity and price and where he beloing to show that in the list. So Buyer can easyly find there products.
+- Buyer can filter there result by there desired product and the village they want to buy from. So they can find out how many people are selling the desired product from that location.
+weather-explorer:
+https://weather-explorer-psi-two.vercel.app/
+https://github.com/Anshuman56/weather-explorer
+Tach Stack: TypeScript, NextJs and Weather API.
+- You can search any city you want the weather report. You just write the name of the city and it will give you a weather report.
+- And In the result you can see the today wind high and low presor and the future two days wind presor.
+github-explorer-ts:
+https://github-explorer-nextjs.vercel.app/
+https://github.com/Anshuman56/github-explorer-nextjs
+Tach Stack: TypeScript, NextJs and GitHub API.
+- You can enter you user name or anyother GitHub user name and you get the result like the name of the user and photo and there public repos name and there description.
+
+Skills:
+Languages: TypeScript, JavaScript. Frontend: React, Next.js, Tailwind. Backend: Node.js, Express, MongoDB. Tools: Git, Vercel
+
+Education: MCA. CIME, Bhubaneswar. 2018
