@@ -22,3 +22,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day — TuesDay (17 November)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I watch from the AI the Dsa problem.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- LinkedIn network, starting properly
+
+### Stuck on / need to revisit
+
+- Nothing
