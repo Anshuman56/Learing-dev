@@ -73,14 +73,14 @@ Energy (1–10): 5
 
 - Nothing
 
-## Day — WednesDay (17 November)
+## Day — friDay (20 November)
 
 Time spent: 3h 10m
 Energy (1–10): 5
 
 ### What I built/learned today
 
-- Do One DSA and apply for 5 jobs and send connection to five friends.
+- I post the linked in post.
 
 ### What confused me
 
@@ -92,7 +92,7 @@ Energy (1–10): 5
 
 ### Tomorrow's first task
 
-- Village visit + publish
+- More apps + re-solves + Docker prep
 
 ### Stuck on / need to revisit
 
