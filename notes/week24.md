@@ -22,3 +22,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day — TuesDay (24 November)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I update the resume with the action idea. Then update the readme of the krushiconnect. And do the tow pointer dsa drill.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Reverse String + applications
+
+### Stuck on / need to revisit
+
+- Nothing

@@ -8,3 +8,4 @@
 | 21-11-2026 | risingsunsoftsol                | React Developers              | Send Email |
 | 21-11-2026 | Rimasa Global Solutions         | React Developers              | Send Email |
 | 21-11-2026 | INCTURE                         | Node.js Developer             | Send Email |
+| 21-11-2026 | magnelox.                       | Full Stack Developer          | Send Email |

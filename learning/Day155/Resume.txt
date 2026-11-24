@@ -1,5 +1,5 @@
 Anshuman Dehury
-89176967321
+8917697321
 anshumandehury@gmail.com
 Angul, Odisha
 https://github.com/Anshuman56/
@@ -12,21 +12,25 @@ Projects:
 KrushiConnect:
 https://krushi-connect-psi.vercel.app/
 https://github.com/Anshuman56/krushi-connect
-Tach Stack: TypeScript, NextJs, mondodb.
-- Farmers can add there product quantity and price and where he beloing to show that in the list. So Buyer can easyly find there products.
-- Buyer can filter there result by there desired product and the village they want to buy from. So they can find out how many people are selling the desired product from that location.
+Tach Stack: TypeScript, NextJs, Mongodb.
+- Build a market place useing Nextjs and MongoDB where farmer can sell there goods to bulk buyer, So buyer can't need to go haat for there bulk buying.
+- Interviewed about 15 farmer and see most of them don't have a smart phone. So they can list there product from there kids.
+- Implemented URL-based filtering with GET forms that works without JavaScript on slow phone.
+- Implemented Server-side Validation of the form data using server Action so it will don't need a server validation.
+
 weather-explorer:
 https://weather-explorer-psi-two.vercel.app/
 https://github.com/Anshuman56/weather-explorer
 Tach Stack: TypeScript, NextJs and Weather API.
-- You can search any city you want the weather report. You just write the name of the city and it will give you a weather report.
-- And In the result you can see the today wind high and low presor and the future two days wind presor.
-github-explorer-ts:
+- Build a weather app using NextJs and Weather API where people can see the weather of there city.
+- Implemented NextJs so the weather data is on the HTML. Not like react the data not in the HTML.
+
+github-explorer-nextjs:
 https://github-explorer-nextjs.vercel.app/
 https://github.com/Anshuman56/github-explorer-nextjs
 Tach Stack: TypeScript, NextJs and GitHub API.
-- You can enter you user name or anyother GitHub user name and you get the result like the name of the user and photo and there public repos name and there description.
-
+- Build a GitHub explorer using NextJs and GitHub API where you can see there users repo and thire description, name. 
+- Implemented NextJs so the weather data is on the HTML. Not like react the data not in the HTML.
 Skills:
 Languages: TypeScript, JavaScript. Frontend: React, Next.js, Tailwind. Backend: Node.js, Express, MongoDB. Tools: Git, Vercel
 
