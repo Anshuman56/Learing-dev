@@ -9,3 +9,8 @@
 | 21-11-2026 | Rimasa Global Solutions         | React Developers              | Send Email |
 | 21-11-2026 | INCTURE                         | Node.js Developer             | Send Email |
 | 21-11-2026 | magnelox.                       | Full Stack Developer          | Send Email |
+| 25-11-2026 | suntechconsulting               | Junior Full Stack Developer   | Send Email |
+| 25-11-2026 | covenantglobaltech              | Junior Frontend Developer     | Send Email |
+| 25-11-2026 | Quixta.                         | Junior Frontend Developer     | Send Email |
+| 25-11-2026 | Auroscale                       | Full Stack Engineer Intern    | wellfound  |
+| 25-11-2026 | LovedByAI                       | Full Stack Engineer           | Their site |

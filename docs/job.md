@@ -1,10 +1,10 @@
 ## Where to look (verified by you this week, since job sites move):
 
-LinkedIn Jobs: search “junior full stack developer”, “junior react developer”, “next.js developer.” Filter by Remote and by India.
-Wellfound (the old AngelList): junior full-stack roles at startups.
-Instahyre: Indian startup jobs, auto-matches.
-Naukri: search “React developer”, 0-2 years experience.
-Ignore: anything asking for 3+ years, anything mentioning only tech you don’t know (Angular, Java), anything paying in training fees (scam).
+- LinkedIn Jobs: search “junior full stack developer”, “junior react developer”, “next.js developer.” Filter by Remote and by India.
+- Wellfound (the old AngelList): junior full-stack roles at startups.
+- Instahyre: Indian startup jobs, auto-matches.
+- Naukri: search “React developer”, 0-2 years experience.
+- Ignore: anything asking for 3+ years, anything mentioning only tech you don’t know (Angular, Java), anything paying in training fees (scam).
 
 ## Apply to 5 roles tonight. For each:
 
