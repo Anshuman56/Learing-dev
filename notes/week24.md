@@ -72,3 +72,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day — ThursDay (26 November)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- Fix the UI bug in krushiConnect and do the palindrome and I will send 10 connect and 2 comments.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Valid Palindrome + "tell me about yourself"
+
+### Stuck on / need to revisit
+
+- Nothing
