@@ -1,0 +1,10 @@
+After applying to like 20 jobs. I got one interview call and they give me an assignment and I did assignment with like one day siting infront of computer using AI to write most of the code. By applying to so many jobs most of them not replay. And in that process I learn about my krusiConnection had some UI bug. So I will fix them.
+
+And I learn a new consept called Two Pointer. And the besic idea is if you have an array you can reverse the array using Two pointer. And Two pointer work like half of the O(n) time. You will run a for loop on the array first value assing i and assing the last value to j. when you increate the i the j will decrigw you can swap the value for revering the array. and when the i and j are same you break the loop and also when j is less that i you break the loop. 
+
+
+After applying to like 20 jobs. I got one interview call, and they gave me an assignment, and I did the assignment in like one day, sitting in front of a computer using AI to write most of the code. By applying to so many jobs, most of them didn't reply. And in that process I learn about my krusiConnection had some UI bug. So I will fix them.
+
+
+
+And I learned a new concept called Two Pointers. And the basic idea is that if you have an array, you can reverse the array using two pointers. And two pointers work in half of the O(n) time. You will run a for loop on the array; first, assign array[ i ] to the first value and assign the last value to array[  j ]. When you increment i, j will decrease; you can swap the values to reverse the array. And when i and j are the same, you break the loop; also, when j is less than i, you break the loop.
