@@ -97,3 +97,28 @@ Energy (1–10): 5
 ### Stuck on / need to revisit
 
 - Nothing
+
+## Day — FriDay (27 November)
+
+Time spent: 3h 10m
+Energy (1–10): 5
+
+### What I built/learned today
+
+- I do the Dsa drill and will send 5 application.
+
+### What confused me
+
+- nothing.
+
+### One thing that clicked
+
+- Nothing.
+
+### Tomorrow's first task
+
+- Docker install + re-solves
+
+### Stuck on / need to revisit
+
+- Nothing
