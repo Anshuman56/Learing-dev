@@ -1,0 +1,15 @@
+### wsl --version
+
+WSL version: 3.0.5.0
+Kernel version: 6.18.58.1-1
+WSLg version: 1.0.79
+MSRDC version: 1.2.7391
+Direct3D version: 1.611.1-81528511
+DXCore version: 10.0.26100.1-240331-1435.ge-release
+Windows version: 10.0.26300.9974
+
+### docker --version
+
+Docker version 29.9.3, build 5457199
+
+- There is no error.

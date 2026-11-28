@@ -14,3 +14,8 @@
 | 25-11-2026 | Quixta.                         | Junior Frontend Developer     | Send Email |
 | 25-11-2026 | Auroscale                       | Full Stack Engineer Intern    | wellfound  |
 | 25-11-2026 | LovedByAI                       | Full Stack Engineer           | Their site |
+| 25-11-2026 | Tecavy                          | Full Stack Engineer           | wellfound  |
+| 25-11-2026 | LovedByAI                       | Full Stack Engineer           | wellfound  |
+| 25-11-2026 | Agilemorph Solutions            | Full Stack Engineer           | wellfound  |
+| 25-11-2026 | Indbharat First Private Limited | Full Stack Engineer           | Send Email |
+| 25-11-2026 | Ajatus                          | Full Stack Engineer           | Send Email |
